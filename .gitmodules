@@ -1,0 +1,3 @@
+[submodule "movie-app/Movie-land"]
+	path = movie-app/Movie-land
+	url = https://github.com/Pravesh-mansharamani/React-learning.git
